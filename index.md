@@ -1,3 +1,8 @@
+# <center>韶翎裳 ♡ 桑小染</center>
+    3479506443 ♡ 1060802477
+#### <center><相恋于 2019年02月11日 19:55 星期一>
+###### <center><2019ねん02がつ じゅういちにち 19:55 に恋する>     
+<center>已经相恋</center>
 <center>
 <html>
 <head>
@@ -49,7 +54,7 @@
                     int_minute="0"+int_minute;
                 if(int_second<10)
                     int_second="0"+int_second;
-                str_time="已经相恋<"+int_day+"天"+int_hour+"小时"+int_minute+"分钟"+int_second+"秒>";
+                str_time="<"+int_day+"天"+int_hour+"小时"+int_minute+"分钟"+int_second+"秒>";
                 timer.innerHTML=str_time;
                 setTimeout("show_time()",1000);
             }

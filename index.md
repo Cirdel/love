@@ -29,10 +29,10 @@
     <script type="text/javascript">
         var time_now_server,time_now_client,time_end,time_server_client;
  
-        time_end=new Date("2019/02/11 19:25:0");//结束的时间
+        time_end=new Date("2019/02/11 19:25:0");//开始的时间
         time_end=time_end.getTime();//获取的是毫秒
  
-        time_now_server=new Date();//开始的时间
+        time_now_server=new Date();//目前的时间
         time_now_server=time_now_server.getTime();
         setTimeout("show_time()",1000);
  
